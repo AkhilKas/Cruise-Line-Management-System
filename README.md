@@ -9,8 +9,8 @@ Our aim is to demonstrate a cruise line management system using create, insert, 
 A cruise line has Rooms and Restaurants. A Passenger makes a Transaction for booking the cruise trip through our website. Passengers on a cruise can visit many, but can board and depart at one Destination. Passengers check into their booked Rooms. Passengers dine at a variety of Restaurants available on board. A Restaurant has Tables. A cruise has many on board Staff members, for multiple services to help the Passengers. There are designated Staff members to clean Rooms, to serve at the Restaurant, and a lot more roles.
 
 <b>Modules:</b><br>
-Registration (Cruise destination, departure, port of departure, date of departure, trip duration)
-Log In (Choosing onboard suites, Restaurants, cancellation policy, terms and conditions)
-Explore (Restaurant booking, onboard and off-shore activities, and banquet hall)
-Manage (Already booked, check in, onboard packages, and travel protection)
-Help, Contact Us, About 
+Registration (Cruise destination, departure, port of departure, date of departure, trip duration)<br>
+Log In (Choosing onboard suites, Restaurants, cancellation policy, terms and conditions)<br>
+Explore (Restaurant booking, onboard and off-shore activities, and banquet hall)<br>
+Manage (Already booked, check in, onboard packages, and travel protection)<br>
+Help, Contact Us, About <br>
